@@ -6,9 +6,37 @@
     <description>Recent content on My Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 03 Oct 2020 16:21:26 +0200</lastBuildDate>
     
 	<atom:link href="https://agno94.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projects</title>
+      <link>https://agno94.github.io/projects/</link>
+      <pubDate>Sat, 03 Oct 2020 16:21:26 +0200</pubDate>
+      
+      <guid>https://agno94.github.io/projects/</guid>
+      <description>Math  thesis  Software  Buonacaccia.net Telegram Bot - 2020  Others  aaa bbb  </description>
+    </item>
+    
+    <item>
+      <title>Hobbies</title>
+      <link>https://agno94.github.io/hobbies/</link>
+      <pubDate>Sat, 03 Oct 2020 16:21:19 +0200</pubDate>
+      
+      <guid>https://agno94.github.io/hobbies/</guid>
+      <description> creating website without writing anything meanfull  </description>
+    </item>
+    
+    <item>
+      <title>My CV</title>
+      <link>https://agno94.github.io/my-cv/</link>
+      <pubDate>Sat, 03 Oct 2020 16:03:56 +0200</pubDate>
+      
+      <guid>https://agno94.github.io/my-cv/</guid>
+      <description>Andrea Agnolin Education  a b das dlmsalc  Work Experience Languages Other </description>
+    </item>
     
   </channel>
 </rss>

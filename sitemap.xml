@@ -4,10 +4,14 @@
 	<sitemap>
 	   	<loc>https://agno94.github.io/en/sitemap.xml</loc>
 		
+	   	<lastmod>2020-10-03T16:21:26+02:00</lastmod>
+		
 	</sitemap>
 	
 	<sitemap>
 	   	<loc>https://agno94.github.io/it/sitemap.xml</loc>
+		
+	   	<lastmod>2020-10-03T16:21:26+02:00</lastmod>
 		
 	</sitemap>
 	

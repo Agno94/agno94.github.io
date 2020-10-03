@@ -3,21 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://agno94.github.io/it/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://agno94.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://agno94.github.io/it/categories/"
-                />
-  </url>
-  
-  <url>
     <loc>https://agno94.github.io/it/</loc>
+    <lastmod>2020-10-03T16:21:26+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,7 +18,68 @@
   </url>
   
   <url>
+    <loc>https://agno94.github.io/it/projects/</loc>
+    <lastmod>2020-10-03T16:21:26+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://agno94.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://agno94.github.io/it/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://agno94.github.io/it/hobbies/</loc>
+    <lastmod>2020-10-03T16:21:19+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://agno94.github.io/hobbies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://agno94.github.io/it/hobbies/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://agno94.github.io/it/tags/cv/</loc>
+    <lastmod>2020-10-03T16:03:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://agno94.github.io/tags/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://agno94.github.io/it/tags/cv/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://agno94.github.io/it/my-cv/</loc>
+    <lastmod>2020-10-03T16:03:56+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://agno94.github.io/my-cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://agno94.github.io/it/my-cv/"
+                />
+  </url>
+  
+  <url>
     <loc>https://agno94.github.io/it/tags/</loc>
+    <lastmod>2020-10-03T16:03:56+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -41,6 +89,20 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://agno94.github.io/it/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://agno94.github.io/it/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://agno94.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://agno94.github.io/it/categories/"
                 />
   </url>
   

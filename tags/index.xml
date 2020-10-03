@@ -6,9 +6,19 @@
     <description>Recent content in Tags on My Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 03 Oct 2020 16:03:56 +0200</lastBuildDate>
     
 	<atom:link href="https://agno94.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cv</title>
+      <link>https://agno94.github.io/tags/cv/</link>
+      <pubDate>Sat, 03 Oct 2020 16:03:56 +0200</pubDate>
+      
+      <guid>https://agno94.github.io/tags/cv/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
