@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cv on My Personal Site</title>
+    <title>Cv on Work in progress...</title>
     <link>https://agno94.github.io/tags/cv/</link>
-    <description>Recent content in cv on My Personal Site</description>
+    <description>Recent content in Cv on Work in progress...</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Sat, 03 Oct 2020 16:03:56 +0200</lastBuildDate>
-    
-	<atom:link href="https://agno94.github.io/tags/cv/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://agno94.github.io/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My CV</title>
+      <link>https://agno94.github.io/my-cv.it/</link>
+      <pubDate>Sat, 03 Oct 2020 16:03:56 +0200</pubDate>
+      <guid>https://agno94.github.io/my-cv.it/</guid>
+      <description>Andrea Agnolin Upcoming&amp;hellip;</description>
+    </item>
     <item>
       <title>My CV</title>
       <link>https://agno94.github.io/my-cv/</link>
       <pubDate>Sat, 03 Oct 2020 16:03:56 +0200</pubDate>
-      
       <guid>https://agno94.github.io/my-cv/</guid>
-      <description>Andrea Agnolin Education  a b das dlmsalc  Work Experience Languages Other </description>
+      <description>Andrea Agnolin Upcoming&amp;hellip;&#xA;Education Work Experience Languages Other </description>
     </item>
-    
   </channel>
 </rss>
