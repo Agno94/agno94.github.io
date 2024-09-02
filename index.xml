@@ -9,39 +9,18 @@
     <lastBuildDate>Sat, 03 Oct 2020 16:21:26 +0200</lastBuildDate>
     <atom:link href="https://agno94.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Progetti</title>
-      <link>https://agno94.github.io/projects.it/</link>
-      <pubDate>Sat, 03 Oct 2020 16:21:26 +0200</pubDate>
-      <guid>https://agno94.github.io/projects.it/</guid>
-      <description>Matematica thesis&amp;hellip; aggingere link Software 2020 - Buonacaccia.net Telegram Bot 2024 - ZFS Home Encryption + pam unlocker Lavorativi Phinergy&amp;hellip; TODO: aggiungere link e descrizione Altri &amp;hellip;?</description>
-    </item>
-    <item>
       <title>Projects</title>
       <link>https://agno94.github.io/projects/</link>
       <pubDate>Sat, 03 Oct 2020 16:21:26 +0200</pubDate>
       <guid>https://agno94.github.io/projects/</guid>
-      <description>Math thesis&amp;hellip; TODO aggingere link Software Buonacaccia.net Telegram Bot - 2020 Software 2020 - Buonacaccia.net Telegram Bot 2024 - ZFS Home Encryption + pam unlocker Work Phinergy&amp;hellip; TODO: aggiungere link e descrizione Others &amp;hellip;?</description>
+      <description>Math Master thesis text code repository Software &amp;amp; utils 2020 (Paused) - Buonacaccia.net Telegram Bot 2024 - ZFS Home Encryption + PAM unlocker at login + TPM unlock for root repository Work 2021-2024 - Working at Phinergy I mainly focused at developing Hermes, an interface to the power market with embedded tools for automatic bidding, dispatching and others&amp;hellip; Others &amp;hellip;</description>
     </item>
     <item>
-      <title>Hobbies</title>
-      <link>https://agno94.github.io/hobbies/</link>
+      <title>Free time</title>
+      <link>https://agno94.github.io/free-time/</link>
       <pubDate>Sat, 03 Oct 2020 16:21:19 +0200</pubDate>
-      <guid>https://agno94.github.io/hobbies/</guid>
-      <description>Upcoming&amp;hellip;</description>
-    </item>
-    <item>
-      <title>Hobby</title>
-      <link>https://agno94.github.io/hobbies.it/</link>
-      <pubDate>Sat, 03 Oct 2020 16:21:19 +0200</pubDate>
-      <guid>https://agno94.github.io/hobbies.it/</guid>
-      <description>In arrivo &amp;hellip;</description>
-    </item>
-    <item>
-      <title>My CV</title>
-      <link>https://agno94.github.io/my-cv.it/</link>
-      <pubDate>Sat, 03 Oct 2020 16:03:56 +0200</pubDate>
-      <guid>https://agno94.github.io/my-cv.it/</guid>
-      <description>Andrea Agnolin Upcoming&amp;hellip;</description>
+      <guid>https://agno94.github.io/free-time/</guid>
+      <description>Upcoming&amp;hellip;&#xA;List of points to write about:&#xA;Scout leader at AGESCI FUCI, AECG, Cristian-Jewish relations, etc&amp;hellip; something about outdoor stuff something about software and linux stuff something about video/board-games something about video and printed media </description>
     </item>
     <item>
       <title>My CV</title>
