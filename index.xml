@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Work in progress...</title>
+    <title>Andrea Agnolin</title>
     <link>https://agno94.github.io/</link>
-    <description>Recent content on Work in progress...</description>
+    <description>Recent content on Andrea Agnolin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Oct 2020 16:21:26 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 16:21:26 +0200</lastBuildDate>
     <atom:link href="https://agno94.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>https://agno94.github.io/projects/</link>
-      <pubDate>Sat, 03 Oct 2020 16:21:26 +0200</pubDate>
+      <pubDate>Sat, 03 Aug 2024 16:21:26 +0200</pubDate>
       <guid>https://agno94.github.io/projects/</guid>
-      <description>Math Master thesis text code repository Software &amp;amp; utils 2020 (Paused) - Buonacaccia.net Telegram Bot 2024 - ZFS Home Encryption + PAM unlocker at login + TPM unlock for root repository Work 2021-2024 - Working at Phinergy I mainly focused at developing Hermes, an interface to the power market with embedded tools for automatic bidding, dispatching and others&amp;hellip; Others &amp;hellip;</description>
+      <description>Math Master thesis: Optimization/Operations research [text] [code repository] Software &amp;amp; utils Freetime (mostly-alone):&#xA;2020 - [Paused] Buonacaccia.net Telegram Bot which used to use webscraping to help italian scout find and get notified about events, currently no longer working 2023-24 - A series of tools to manage and automate financial tracking and reporting for my scout group (one example) 2024 - ZFS Home Encryption + PAM unlocker at login + TPM unlock for root [repository] Freetime (mostly-teamworks):</description>
     </item>
     <item>
       <title>Free time</title>
       <link>https://agno94.github.io/free-time/</link>
-      <pubDate>Sat, 03 Oct 2020 16:21:19 +0200</pubDate>
+      <pubDate>Sat, 03 Aug 2024 16:21:19 +0200</pubDate>
       <guid>https://agno94.github.io/free-time/</guid>
-      <description>Upcoming&amp;hellip;&#xA;List of points to write about:&#xA;Scout leader at AGESCI FUCI, AECG, Cristian-Jewish relations, etc&amp;hellip; something about outdoor stuff something about software and linux stuff something about video/board-games something about video and printed media </description>
+      <description>Scout I spend a lot of time as a scout leader (volunteer, as everyone is my country) for the local group of AGESCI.&#xA;I joined the Scout Movement as a teenager and I&amp;rsquo;ve been a scout leader since end of 2015.&#xA;I think the ideas of Baden Powell as they are implemented in Italy are an effective way to train boys and girls in many aspects of life.&#xA;No one can pass through life, any more than he can pass through a bit of country, without leaving tracks behind, and those tracks may often be helpful to those coming after him in finding their way.</description>
     </item>
     <item>
-      <title>My CV</title>
-      <link>https://agno94.github.io/my-cv/</link>
-      <pubDate>Sat, 03 Oct 2020 16:03:56 +0200</pubDate>
-      <guid>https://agno94.github.io/my-cv/</guid>
-      <description>Andrea Agnolin Upcoming&amp;hellip;&#xA;Education Work Experience Languages Other </description>
+      <title>Personal CV</title>
+      <link>https://agno94.github.io/web-cv/</link>
+      <pubDate>Sat, 03 Aug 2024 16:03:56 +0200</pubDate>
+      <guid>https://agno94.github.io/web-cv/</guid>
+      <description>Andrea Agnolin&amp;rsquo;s short web version resumé Updated summer 2024&#xA;Education Master Sc. degree Mathematics at Università degli Studi di Padova, 2021, 108/110, Padua(IT) Erasmus exchange at Universität Bayreuth, 2018, Bayreuth(DE) Bachelor Sc. degree Mathematics at Università degli Studi di Padova Scuola Galileiana di Studi Superiori in Padua, first 2 years of university Liceo &amp;ldquo;F. Corradini&amp;rdquo; high school, Thiene(IT) High School Awards at Italian national level of Math, Physics and Infomatics Olimpiads Work Experience Quantitive Analyst and Full-Stack developer at Phinergy 2021-2024</description>
     </item>
   </channel>
 </rss>
